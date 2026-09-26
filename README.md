@@ -23,14 +23,15 @@ El sistema centraliza las operaciones clave mediante **5 servicios backend princ
   * Spring Data JPA (Persistencia)
   * Spring Web (API RESTful)
   * Spring Validation (Validación de DTOs)
-  * Spring Security (Autenticación / Autorización)
-* **Base de Datos:** PostgreSQL / MySQL
-* **Documentación:** OpenAPI 3 / Swagger UI
-* **Herramientas:** Maven/Gradle, Docker Desktop, Visual Studio Code / IntelliJ IDEA
+  * Spring Security (Autenticación / Autorización) (Deseable)
+* **Base de Datos:**  MySQL
+* **Documentación:** Swagger UI
+* **Herramientas:** Maven/Gradle, Docker Desktop, IntelliJ IDEA
 
 ---
 
 ## 🗄️ Modelo Entidad-Relación (ERD)
 
-El modelo de datos cubre el flujo completo de venta desde la selección de mesa/cliente hasta la generación de la orden y el cobro final.
+El modelo de datos cubre el flujo completo de venta desde la selección de mesa/cliente hasta la generación de la orden y el cobro final. (Pendiente)
+
 
