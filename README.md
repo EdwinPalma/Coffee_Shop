@@ -11,8 +11,7 @@ El sistema centraliza las operaciones clave mediante **5 servicios backend princ
 1. **Servicio de Clientes:** Registro, consulta y seguimiento de la información de clientes.
 2. **Servicio de Productos:** Gestión del menú de bebidas, postres y sándwiches (precios, disponibilidad y stock).
 3. **Servicio de Categorías de Productos:** Clasificación y organización del catálogo general.
-4. **Servicio de Promociones:** Aplicación de descuentos temporales aplicables a una categoría completa o a un producto específico.
-5. **Servicio de Órdenes:** Levantamiento de pedidos por mesa/cliente, asignación de empleado/atención y procesamiento final del pago.
+4. **Servicio de Órdenes:** Levantamiento de pedidos por mesa/cliente, asignación de empleado/atención y procesamiento final del pago.
 
 ---
 
@@ -32,6 +31,6 @@ El sistema centraliza las operaciones clave mediante **5 servicios backend princ
 
 ## 🗄️ Modelo Entidad-Relación (ERD)
 
-El modelo de datos cubre el flujo completo de venta desde la selección de mesa/cliente hasta la generación de la orden y el cobro final. (Pendiente)
+El modelo de datos cubre el flujo completo de venta desde la selección de cliente hasta la generación de la orden.
 
-
+![Entity Relationship Diagram](docs/Diagrama ERD Coffee Shop.png)
